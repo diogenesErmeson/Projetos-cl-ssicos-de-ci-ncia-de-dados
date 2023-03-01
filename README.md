@@ -1,1 +1,1 @@
-# Projetos-clássicos de ciência de dados
+# Projetos classicos de ciência de dados
