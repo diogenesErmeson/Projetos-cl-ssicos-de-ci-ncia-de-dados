@@ -1,0 +1,27 @@
+Olá me chamo Diogenes Ermeson
+
+Este trabalho é um exemplo fictício realizado com dados coletados no kaggle onde é realizado a extração e tratamento de dados de uma base de dados em python para a tomada de decisão.
+
+-EMPRESA FICTICIA:House Rocket
+-MODELO DE NEGÓCIO: Compra casas com preço baixo e revende com preço alto
+-QUAL O DESAFIO: Encontrar bosn negócios dentro do portifólio disponível, ou seja, encontrar casas com preço baixo, em ótima localização  e que tenham um ótimo potencial de revenda por um preço mais alto.
+
+ 
+Questões a serem respondidas a gerência de negócios:
+
+1- Qual a data do imóvel mais antigo do portfólio?
+2- Quantos imóveis possuem o número máximo de andares?
+3- Criar uma classificação para os imóveis, separando-os em baixo e alto padrão, de acordo com o preço:
+	-Acima de $ 540 mil: alto padrão;
+	-Abaixo de $ 540 mil: baixo padrão;
+4- Relatório ordenado pelo preço e contendo as seguintes informações:
+	- Id do imóvel;
+	- Data que o imóvel ficou disponível para compra;
+	- O número de quartos;
+	- O tamanho do terreno;
+	- O preço;
+	
+
+5- Confeccção de uma mapa indicando onde os imoveis estão localizadas geograficamente
+	PS: É NECESSÁRIO DESCOMENTAR O CÓDIGO DA QUESTÃO 4 E INSTALAR O MÓDULO plotly
+VERSÃO DO PYTHON A SER USADA: A PARTIR DA 3.6
